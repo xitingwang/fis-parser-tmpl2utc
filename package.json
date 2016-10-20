@@ -1,0 +1,21 @@
+{
+    "name" : "fis-parser-tmpl2utc",
+    "description" : "A parser for fis to compile underscore template.",
+    "version" : "1.0.0",
+    "author" : "FIS Team <fis@baidu.com>",
+    "homepage" : "http://fis.baidu.com/",
+    "keywords": [ "fis", "underscore" ],
+    "main" : "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xitingwang/fis-parser-tmpl2utc.git"
+    },
+    "dependencies": {
+        "underscore": "1.4.4"
+    },
+    "author": "dw_wangchao1 <wangchao1@yy.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xitingwang/fis-parser-tmpl2utc/issues"
+    }
+}
